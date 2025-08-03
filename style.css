@@ -16,3 +16,9 @@ body{
     margin-top: 20px;
     background-color: blue;
 }
+#command {
+    text-align: center;
+    margin-top: 20px;
+    background-color: green;
+
+}
